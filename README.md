@@ -98,7 +98,7 @@ The frontend of **ECG Explorer** is designed to deliver a seamless and interacti
     - `Ctrl + D`: Delete the annotation.
     - `Ctrl + P`: Copy the annotation to other leads.
     <br />
-    <br />
+    
     ![Click Around Annotation](./screenshots/click_around.gif)
     <br />
     <br />
