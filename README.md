@@ -1,5 +1,7 @@
 # ECG Explorer
 
+**Note:** this is only a readme of the private project. It only showcase the applications. Reach me directly if you'd like to get more info. Thanks 🤙
+
 **ECG Explorer** is an application designed for analyzing and visualizing electrocardiogram (ECG) data. Built with Electron, Vue, and TypeScript for the frontend, Python for the backend (FastAPI) and  for data processing. 
 
 It provides healthcare professionals and researchers with tools to:
